@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">选课系统</string>
+    <string name="text1">选修课程</string>
+    <string name="text2">课程信息</string>
+    <string name="text3">查询学生信息</string>
+    <string name="text4">课程详细信息</string>
+    <string name="text5">帮助</string>
+    <string name="text6">退出系统</string>
+    <string name="name">姓名：</string>
+    <string name="age">年龄：</string>
+    <string name="sex">性别：</string>
+    <string name="boy">男</string>
+    <string name="girs">女</string>
+    <string name="tijiao">提交信息</string>
+    <string name="title_activity_xuanxiu2">xuanxiu2</string>
+    <string name="title">请选择你要选修课程的编号</string>
+    <string name="title_activity_xuanxiu3">xuanxiu3</string>
+    <string name="add_succse">选课成功</string>
+    <string name="add_flase">选课失败</string>
+    <string name="tianjia1">Add   Success</string>
+    <string name="tianjia2">Add  Fail</string>
+
+
+    <string name="title_kechen">课程信息</string>
+    <string name="finish">退出系统</string>
+    <string name="ISfinish">是否退出系统?</string>
+    <string name="IS">是</string>
+    <string name="No">否</string>
+
+    <string name="chaxun">查询学生信息</string>
+    <string name="chakan">查看课程详细信息</string>
+
+    <string name="welcome">欢迎使用本软件</string>
+
+
+</resources>
